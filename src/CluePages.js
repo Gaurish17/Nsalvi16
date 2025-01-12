@@ -534,7 +534,7 @@ export const FinalPage = () => {
               <LetterText>
                 As you start another year of your amazing journey, I wish you all the happiness, success, 
                 and love that you deserve. May your dreams take flight and your heart stay as pure and beautiful as it is.
-                Let's make this year even more special by celebrating our love story together.
+                Let's make this year even more special by celebrating our friendship together.
                 LOADDSSS OF LOOVVEEEEE !!!!!!
               </LetterText>
               <LetterText>
